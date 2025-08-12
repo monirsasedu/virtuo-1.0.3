@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://md-monir-hoseen-designer-and-develo.vercel.app/sitemap.xml

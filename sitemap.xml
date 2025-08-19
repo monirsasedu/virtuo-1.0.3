@@ -15,4 +15,19 @@
     <lastmod>2025-08-12</lastmod>
     <priority>0.80</priority>
   </url>
+  <url>
+    <loc>https://monir-hossen-portfolio.netlify.app/</loc>
+    <lastmod>2025-08-12</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://monir-hossen-portfolio.netlify.app/about</loc>
+    <lastmod>2025-08-12</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://monir-hossen-portfolio.netlify.app/contact</loc>
+    <lastmod>2025-08-12</lastmod>
+    <priority>0.80</priority>
+  </url>
 </urlset>

@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://md-monir-hoseen-designer-and-develo.vercel.app/sitemap.xml
-Sitemap: https://monir-hossen-portfolio.netlify.app/sitemap.xml
+Sitemap: https://md-monir-hossen.vercel.app/sitemap.xml

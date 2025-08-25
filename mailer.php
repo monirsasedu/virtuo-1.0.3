@@ -17,7 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $subject = "No Subject Provided";
     }
 
-    $recipient = "support@themes-park.com";
+    $recipient = "monir.sasedu@gmail.com";
     $email_subject = "New contact from $name";
 
     $email_content = "Name: $name\n";

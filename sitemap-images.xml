@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://md-monir-hossen.netlify.app/</loc>
+    <image:image>
+      <image:loc>https://md-monir-hossen.netlify.app/images/image1.jpg</image:loc>
+      <image:caption>Md Monir Hossen Portfolio Image</image:caption>
+      <image:title>Md Monir Hossen Design</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://md-monir-hossen.netlify.app/portfolio</loc>
+    <image:image>
+      <image:loc>https://md-monir-hossen.netlify.app/assets\images\latest-portfolio\portfoli-img-13.jpg</image:loc>
+      <image:caption>Web Design Project Image</image:caption>
+      <image:title>Web Design by Md Monir Hossen</image:title>
+    </image:image>
+  </url>
+
+</urlset>
